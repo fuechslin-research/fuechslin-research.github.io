@@ -1,1 +1,0 @@
-# fuechslin-research.github.io
