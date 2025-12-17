@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am a **freelance media researcher** focusing on audience analyisis and data reporting in the **DACH region**
+I am a **freelance media researcher** focusing on audience analyisis and data reporting in the **DACH region**.<br>
 You can contact me via [Email](mailto:tobias.fuechslin@gmail.com), [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/) or look up my [Google Scholar Profile](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de).
 
 ## Skills & Tools
