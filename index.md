@@ -9,9 +9,9 @@ I am a **freelance media researcher** focusing on audience analyisis and data re
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
 - [Download CV](/assets/img/cv_fuechslin.pdf)
 
-## Services
 
-|Services |
+
+|## Services |
 |------|
 | Surveys|
 | Reportings & Dashboards|
