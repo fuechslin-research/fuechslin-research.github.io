@@ -9,14 +9,13 @@ I am a **freelance media researcher** with international experience in the **DAC
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
 - [Download CV](/assets/img/cv_fuechslin.pdf)
 
-
 ## Services
 
-|Surveys |
 |------|
-| **Reportings & Dashboards**|
-| **Statistical Data Analysis**|
-| **Consulting & Presentations**|
+| Surveys|
+| Reportings & Dashboards|
+| Statistical Data Analysis|
+| Consulting & Presentations|
   
 ## Skills & Tools
 
@@ -29,17 +28,13 @@ I am a **freelance media researcher** with international experience in the **DAC
 | Service Provider Management        | Piano Analytics    |
 
 ## Project Partners
-- Bayerischer Rundfunk - BR (DE) 
-- Avenir Consulting Services (UK)
-- CERN Communication & Outreach (CH/FR)
-- Science Barometer Switzerland (CH)
-- Novustat Statistik Service (DE)
-- University of Zürich & Basel Communication (CH)
-
-
 
 |------|
-| Surveys|
-| Reportings & Dashboards|
-| Statistical Data Analysis|
-| Consulting & Presentations|
+| Bayerischer Rundfunk - BR (DE)|
+| Avenir Consulting Services (UK)|
+| CERN Communication & Outreach (CH/FR)|
+| Science Barometer Switzerland (CH)|
+| University of Zürich & Basel Communication (CH)|
+
+
+
