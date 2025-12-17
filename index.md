@@ -9,8 +9,8 @@ I am a freelance media researcher focusing on audience analyisis and data report
 ## Skills & Tools
 
 | Skills|Tools|
-|------|----|
-| Research Design & Management       | R (Statistics)     |
+|:------|:----|
+| Research Design & Management       | R  |
 | Data Analysis & Presentations      | Python             |
 | Reporting & Dashboards             | SQL                |
 | Audience Surveys & Segmentations   | Tableau            |
