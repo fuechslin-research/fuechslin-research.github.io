@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-I am a **freelance media researcher** focusing on audience analyisis and data reporting in the **DACH region**.
+I am a **freelance media researcher** with international experience in the **DACH region**. My services focus on **audience analysis** and **data reporting**.
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
@@ -12,24 +12,11 @@ I am a **freelance media researcher** focusing on audience analyisis and data re
 
 ## Services
 
-|------|
-| Surveys|
-| Reportings & Dashboards|
-| Statistical Data Analysis|
-| Consulting & Presentations|
-
 |Surveys |
 |------|
 | **Reportings & Dashboards**|
 | **Statistical Data Analysis**|
 | **Consulting & Presentations**|
-
-|Services |
-|------|
-| Surveys|
-| Reportings & Dashboards|
-| Statistical Data Analysis|
-| Consulting & Presentations|
   
 ## Skills & Tools
 
@@ -48,3 +35,11 @@ I am a **freelance media researcher** focusing on audience analyisis and data re
 - Science Barometer Switzerland (CH)
 - Novustat Statistik Service (DE)
 - University of Zürich & Basel Communication (CH)
+
+
+
+|------|
+| Surveys|
+| Reportings & Dashboards|
+| Statistical Data Analysis|
+| Consulting & Presentations|
