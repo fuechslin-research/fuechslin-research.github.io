@@ -7,7 +7,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
-- [Download CV](/assets/img/cv_fuechslin.pdf)
+- [Download CV](/assets/img/cv_fuechslin_research.pdf)
 
 ## Services
 
@@ -36,5 +36,21 @@ I am a **freelance media researcher** with international experience in the **DAC
 | Science Barometer Switzerland (CH)|
 | University of Zürich & Basel Communication (CH)|
 
+## Selected Projects
+
+- **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook).
+#reporting #socialmedia #YouTube
+- **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers.
+#teameffort #dashboarding #productmanagement
+- **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visu-alizing official online usage figures for the Swiss publisher market.
+#dashboarding #visualization
+- **BR24 Topic and Decision Models:** Analyzed key drivers of news-article performance and pro-vided editorial consulting for the BR24 newsroom.
+#datamodeling #consulting #onlinenews
+- **Quarks Brand Study:** Co-designed and analyzed a nationally representative survey on the per-ception and use of science brands in Germany, followed by advisory sessions with multiple ARD editorial teams.
+#teameffort #surveyresearch #consulting #mediabrands 
+- **ARD-KLASSIK Optimization Survey:** Designed, executed, and presented a community survey of ARD-KLASSIK users to optimize web and social media offerings.
+#audienceanalysis #consulting #mediabrands
+- **Audiences of Science Communication:** Collected and segmented nationally representative data on public attitudes in Switzerland toward science and research.
+#segmentation #surveyresearch #sciencecommunication
 
 
