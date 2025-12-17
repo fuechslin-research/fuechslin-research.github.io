@@ -39,7 +39,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 ## Selected Projects
 
 - **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook).
-#reporting #socialmedia #YouTube
+#reporting #socialmedia #YouTube <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
 - **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers.
 #teameffort #dashboarding #productmanagement
 - **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visu-alizing official online usage figures for the Swiss publisher market.
