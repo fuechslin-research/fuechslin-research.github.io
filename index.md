@@ -10,8 +10,7 @@ I am a **freelance media researcher** focusing on audience analyisis and data re
 - [Download CV](/assets/img/cv_fuechslin.pdf)
 
 
-
-|## Services |
+## Services
 |------|
 | Surveys|
 | Reportings & Dashboards|
