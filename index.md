@@ -40,7 +40,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 
 - **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
 - **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#0366d6;">#teameffort #dashboarding #productmanagement</span>
-- **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visu-alizing official online usage figures for the Swiss publisher market. <span style="color:#0366d6;">#dashboarding #visualization</span>
+- **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visualizing official online usage figures for the Swiss publisher market. <span style="color:#0366d6;">#dashboarding #visualization</span>
 - **BR24 Topic and Decision Models:** Analyzed key drivers of news article performance and provided editorial consulting for the BR24 newsroom.<span style="color:#0366d6;">#datamodeling #consulting #onlinenews</span>
 - **Quarks Brand Study:** Co-designed and analyzed a nationally representative survey on the perception and use of science brands in Germany, followed by advisory sessions with multiple ARD editorial teams. <span style="color:#0366d6;">#teameffort #surveyresearch #consulting #mediabrands</span>
 - **ARD-KLASSIK Optimization Survey:** Designed, executed, and presented a community survey of ARD-KLASSIK users to optimize web and social media offerings. <span style="color:#0366d6;">#audienceanalysis #consulting #mediabrands</span>
