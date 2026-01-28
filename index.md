@@ -15,7 +15,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 | Surveys|
 | Reportings & Dashboards|
 | Quantitative Data Analysis|
-| Consulting & Presentations|
+| Data Collection (e.g. Scraping)|
   
 ## Skills & Tools
 
