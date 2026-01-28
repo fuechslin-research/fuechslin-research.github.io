@@ -36,7 +36,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 | Science Barometer Switzerland (CH)|
 | University of Zürich & Basel Communication (CH)|
 
-## Past Projects (Freelance & Fully Employed)
+## Past Projects (all from fully employed positions)
 
 - **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
 - **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#0366d6;">#teameffort #dashboarding #productmanagement</span>
