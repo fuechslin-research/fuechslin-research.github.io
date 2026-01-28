@@ -7,7 +7,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
-- [Download CV](/assets/img/cv_fuechslin_research.pdf)
+- [Download CV](/assets/img/ccv_fuechslin_research.pdf)
 
 ## Services
 
@@ -30,13 +30,13 @@ I am a **freelance media researcher** with international experience in the **DAC
 ## Project Partners
 
 |------|
-| Bayerischer Rundfunk - BR (DE)|
+| Novustat - Statistic Services (DE)|
 | Avenir Consulting Services (UK)|
 | CERN Communication & Outreach (CH/FR)|
 | Science Barometer Switzerland (CH)|
 | University of Zürich & Basel Communication (CH)|
 
-## Selected Projects
+## Past Projects (Freelance & Fully Employed)
 
 - **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
 - **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#0366d6;">#teameffort #dashboarding #productmanagement</span>
