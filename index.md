@@ -7,7 +7,6 @@ I am an **independent media researcher & data scientist** with international exp
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
-- [Download CV](/assets/img/ccv_fuechslin_research.pdf)
 
 ## Insights through
 
