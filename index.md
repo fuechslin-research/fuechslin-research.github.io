@@ -3,17 +3,17 @@ layout: default
 ---
 
 ## About
-I am a **freelance media researcher** with international experience in the **DACH region**. My services focus on **audience analysis** and **data reporting**.
+I am a **freelance media researcher** with international experience in the **DACH region**.
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
 - [Download CV](/assets/img/ccv_fuechslin_research.pdf)
 
-## Services
+## Insights through
 
 |------|
 | Surveys|
-| Reportings & Dashboards|
+| Research Reportings|
 | Quantitative Data Analysis|
 | Data Collection (e.g. Scraping)|
   
@@ -38,7 +38,7 @@ I am a **freelance media researcher** with international experience in the **DAC
 
 ## Past Projects (all from fully employed positions)
 
-- **BR Social Media Report:** Produced monthly PDF reports on the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
+- **BR Social Media Report:** Produced monthly PDF reports, analysing the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
 - **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#0366d6;">#teameffort #dashboarding #productmanagement</span>
 - **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visualizing official online usage figures for the Swiss publisher market. <span style="color:#0366d6;">#dashboarding #visualization</span>
 - **BR24 Topic and Decision Models:** Analyzed key drivers of news article performance and provided editorial consulting for the BR24 newsroom.<span style="color:#0366d6;">#datamodeling #consulting #onlinenews</span>
