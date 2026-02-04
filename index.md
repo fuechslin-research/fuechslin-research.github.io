@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-I am a **freelance media researcher** with international experience in the **DACH region**.
+I am an **independent media researcher & data scientist** with international experience in the **DACH region**.
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
 - [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
