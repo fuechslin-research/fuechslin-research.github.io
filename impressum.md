@@ -11,7 +11,7 @@ permalink: /impressum/
 **Name / Anbieter:** Dr. Tobias Füchslin  
 **Rechtsform:** Einzelunternehmen  
 **Gewerbeanschrift:** Fröhlichgasse 31/125, 8010 Graz, Österreich  
-**E-Mail:** tobias.fuechslin[at]gmai.com  
+**E-Mail:** tobias.fuechslin[at]gmail.com  
 **GISA-Zahl:** 39324948
 
 ### Unternehmensgegenstand
