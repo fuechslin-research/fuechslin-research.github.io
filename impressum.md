@@ -10,14 +10,10 @@ permalink: /impressum/
 
 **Name / Anbieter:** Dr. Tobias Füchslin  
 **Rechtsform:** Einzelunternehmen  
-**Gewerbeanschrift:** [Straße Hausnummer], [PLZ] [Ort], Österreich  
-**E-Mail:** [email@example.com]  
-**GISA-Zahl:** [GISA-Nummer]
+**Gewerbeanschrift:** Fröhlichgasse 31/125, 8010 Graz, Österreich  
+**E-Mail:** tobias.fuechslin[at]gmai.com
+**GISA-Zahl:** 39324948
 
 ### Unternehmensgegenstand
 
-Markt- und Meinungsforschung / Audience Research & Analytics / Data Analysis
-
-### Hinweis
-
-Bitte die Platzhalter in eckigen Klammern durch die finalen Angaben ersetzen.
+Markt- und Meinungsforschung
