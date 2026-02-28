@@ -6,6 +6,7 @@ layout: default
 fuechslin::research provides **Audience Research & Analytics** for the **DACH Region**.
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
+- [Impressum](/impressum/)
 
 ## Insights through
 
