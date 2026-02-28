@@ -3,10 +3,9 @@ layout: default
 ---
 
 ## About
-I am an **independent media researcher & data scientist** with international experience in the **DACH region**.
+fuechslin::research provides **Audience Reasearch and Analytics** for the **DACH Region**.
 - [Email](mailto:tobias.fuechslin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobias-fuechslin-research/)
-- [Google Scholar](https://scholar.google.com/citations?user=JyvHMUMAAAAJ&hl=de)
 
 ## Insights through
 
