@@ -13,17 +13,17 @@ layout: default
 | Surveys|
 | Research Reportings|
 | Quantitative Data Analysis|
-| Data Collection (e.g. Scraping)|
+| Automated Data Collection (e.g. Scraping)|
   
 ## Skills & Tools
 
 |Skills |Tools |
 |------|-----|
 | Research Design & Management       | R  |
-| Data Analysis      | Python             |
-| Data Visualisation & Presentations               | SQL                |
-| Actionable Insights   | Tableau            |
-| Service Provider Management        | Piano Analytics    |
+| Media Systems and Usage Data (DACH region)      | Python             |
+| Data Analysis, Visualisation & Presentation               | SQL                |
+| Audience Segmentation   | Tableau            |
+| Actionable Insights        | Piano Analytics    |
 
 ## Project Partners
 
