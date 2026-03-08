@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: fuechslin::research
+title: "<span class='title-main'>fuechslin</span><span class='title-sep'>::</span><span class='title-main'>research</span>"
 description: Founder - Dr. Tobias Füchslin - Media Researcher & Data Scientist
 logo: /assets/img/profile.jpg
-
