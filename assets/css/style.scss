@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+header h1,
+header h1 a {
+  font-family: 'IBM Plex Mono', monospace;
+  color: #000;
+}
+
+header h1 .title-sep {
+  color: orange;
+}
