@@ -36,10 +36,10 @@ layout: default
 
 ## Past Projects (all from fully employed positions)
 
-- **BR Social Media Report:** Produced monthly PDF reports, analysing the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#0366d6;">#reporting #socialmedia #YouTube</span>
-- **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#0366d6;">#teameffort #dashboarding #productmanagement</span>
-- **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visualizing official online usage figures for the Swiss publisher market. <span style="color:#0366d6;">#dashboarding #visualization</span>
-- **BR24 Topic and Decision Models:** Analyzed key drivers of news article performance and provided editorial consulting for the BR24 newsroom.<span style="color:#0366d6;">#datamodeling #consulting #onlinenews</span>
-- **Quarks Brand Study:** Co-designed and analyzed a nationally representative survey on the perception and use of science brands in Germany, followed by presentations for multiple ARD editorial teams. <span style="color:#0366d6;">#teameffort #surveyresearch #consulting #mediabrands</span>
-- **ARD-KLASSIK Optimization Survey:** Designed, executed, and presented a community survey of ARD-KLASSIK users to optimize web and social media offerings. <span style="color:#0366d6;">#audienceanalysis #consulting #mediabrands</span>
-- **Audiences of Science Communication:** Collected and segmented nationally representative data on public attitudes in Switzerland toward science and research. <span style="color:#0366d6;">#segmentation #surveyresearch #sciencecommunication</span>
+- **BR Social Media Report:** Produced monthly PDF reports, analysing the performance of Bayerischer Rundfunk’s social media channels (YouTube, Instagram, TikTok, Facebook). <span style="color:#F97316;">#reporting #socialmedia #YouTube</span>
+- **ARD Media Performance Dashboard:** Co-designed and co-managed the development of a cross-channel performance dashboard for all ARD competence centers. <span style="color:#F97316;">#teameffort #dashboarding #productmanagement</span>
+- **Swiss Online Content Traffic Data:** Developed and published a public Tableau dashboard visualizing official online usage figures for the Swiss publisher market. <span style="color:#F97316;">#dashboarding #visualization</span>
+- **BR24 Topic and Decision Models:** Analyzed key drivers of news article performance and provided editorial consulting for the BR24 newsroom.<span style="color:#F97316;">#datamodeling #consulting #onlinenews</span>
+- **Quarks Brand Study:** Co-designed and analyzed a nationally representative survey on the perception and use of science brands in Germany, followed by presentations for multiple ARD editorial teams. <span style="color:#F97316;">#teameffort #surveyresearch #consulting #mediabrands</span>
+- **ARD-KLASSIK Optimization Survey:** Designed, executed, and presented a community survey of ARD-KLASSIK users to optimize web and social media offerings. <span style="color:#F97316;">#audienceanalysis #consulting #mediabrands</span>
+- **Audiences of Science Communication:** Collected and segmented nationally representative data on public attitudes in Switzerland toward science and research. <span style="color:#F97316;">#segmentation #surveyresearch #sciencecommunication</span>

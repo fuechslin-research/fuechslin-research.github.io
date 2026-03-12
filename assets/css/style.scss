@@ -13,3 +13,17 @@ header h1 a {
 header h1 .title-sep {
   color: #F97316;
 }
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+a,
+a:visited {
+  color: #F97316;
+}
+
+header h1 a,
+header h1 a:visited {
+  color: #000;
+}
