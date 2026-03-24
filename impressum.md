@@ -10,10 +10,7 @@ permalink: /impressum/
 
 **Name / Anbieter:** Dr. Tobias Füchslin  
 **Rechtsform:** Einzelunternehmen  
+**Unternehmensgegenstand:** Markt- und Meinungsforschung  
 **Gewerbeanschrift:** Fröhlichgasse 31/125, 8010 Graz, Österreich  
 **E-Mail:** fuechslin.research[at]gmail.com  
 **GISA-Zahl:** 39324948
-
-### Unternehmensgegenstand
-
-Markt- und Meinungsforschung
